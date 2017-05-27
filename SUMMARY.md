@@ -17,9 +17,13 @@
     * [Role of the Vice President](board-structure-and-roles/officers-of-the-corporation/role-of-the-vice-president.md)
     * [Role of the Secretary](board-structure-and-roles/officers-of-the-corporation/role-of-the-secretary.md)
     * [Role of the Treasurer](board-structure-and-roles/officers-of-the-corporation/role-of-the-treasurer.md)
-* [Board Procedures](board-procedures/README.md)
-  * [Board Meetings](board-procedures/board-meetings.md)
-  * [Board Self-Assessment](board-procedures/board-self-assessment.md)
+  * Board Committees and Mandates
+    * Membership and Appointment
+    * Committee Chair
+    * Committee Procedures
+  * [Board Procedures](board-procedures/README.md)
+    * [Board Meetings](board-procedures/board-meetings.md)
+    * [Board Self-Assessment](board-procedures/board-self-assessment.md)
 * [Policies](policies/README.md)
   * [Communication Policy](policies/communication-policy.md)
   * [Finance Policy](policies/finance-policy.md)
@@ -28,6 +32,5 @@
   * [Sponsorship and Fundraising Policy](policies/sponsorship-and-fundraising-policy.md)
   * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
-* [Committees](committees/README.md)
 * Ideal Board Size
 
