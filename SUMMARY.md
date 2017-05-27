@@ -13,10 +13,10 @@
     * [Accountability](board-structure-and-roles/accountability.md)
     * [Responsibilities](board-structure-and-roles/responsibilities.md)
   * [Officers of the Corporation](board-structure-and-roles/officers-of-the-corporation.md)
-    * Role of the President
-    * Role of the Vice President
-    * Role of the Secretary
-    * Role of the Treasurer
+    * [Role of the President](board-structure-and-roles/officers-of-the-corporation/role-of-the-president.md)
+    * [Role of the Vice President](board-structure-and-roles/officers-of-the-corporation/role-of-the-vice-president.md)
+    * [Role of the Secretary](board-structure-and-roles/officers-of-the-corporation/role-of-the-secretary.md)
+    * [Role of the Treasurer](board-structure-and-roles/officers-of-the-corporation/role-of-the-treasurer.md)
 * [Board Procedures](board-procedures/README.md)
   * [Board Meetings](board-procedures/board-meetings.md)
   * [Board Self-Assessment](board-procedures/board-self-assessment.md)
