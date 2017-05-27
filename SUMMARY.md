@@ -17,10 +17,10 @@
     * [Role of the Vice President](board-structure-and-roles/officers-of-the-corporation/role-of-the-vice-president.md)
     * [Role of the Secretary](board-structure-and-roles/officers-of-the-corporation/role-of-the-secretary.md)
     * [Role of the Treasurer](board-structure-and-roles/officers-of-the-corporation/role-of-the-treasurer.md)
-  * Board Committees and Mandates
-    * Membership and Appointment
-    * Committee Chair
-    * Committee Procedures
+  * [Board Committees and Mandates](board-structure-and-roles/board-committees-and-mandates.md)
+    * [Membership and Appointment](board-structure-and-roles/board-committees-and-mandates/membership-and-appointment.md)
+    * [Committee Chair](board-structure-and-roles/board-committees-and-mandates/committee-chair.md)
+    * [Committee Procedures](board-structure-and-roles/board-committees-and-mandates/committee-procedures.md)
   * [Board Procedures](board-procedures/README.md)
     * [Board Meetings](board-procedures/board-meetings.md)
     * [Board Self-Assessment](board-procedures/board-self-assessment.md)
