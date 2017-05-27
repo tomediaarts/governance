@@ -1,6 +1,5 @@
 /* CSS for website */
 
-.gitbook-link {
+li:first-child, li.divider, .gitbook-link {
 display: none !important;
 }
-
