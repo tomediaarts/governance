@@ -33,18 +33,3 @@ The Board is committed to building relationships built on trust with members, st
 * Share knowledge and work together to co-create new sustainable ideas
 * Take a patient and long view, recognizing that ideas and opportunities need the right conditions to take root and will require iterative and sometimes challenging work
 * Have a serious regard for the collaboration and a determination not to let it be subverted
-
-## Accountability
-
-The Board of Directors is collectively accountable to Members, the broader TMAC and Toronto media arts community, neighborhood residents, funders and stakeholders. This accountability supersedes any conflicting loyalty to advocacy and interest groups.
-
-Board members are accountable to the Board.
-
-## Responsibilities
-
-Individual members of the Board must:
-
-* Be informed
-* Maintain confidentiality
-* Be proactive
-* Avoid conflict of interest

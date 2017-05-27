@@ -8,11 +8,15 @@
   * [Ideal Board Size](board-structure-and-roles/ideal-board-size.md)
   * [The Board's Role](board-structure-and-roles/the-boards-role.md)
   * [Directors of the Board](board-structure-and-roles/directors-of-the-board.md)
-    * Role of Directors
+    * [Role of Directors](board-structure-and-roles/role-of-directors.md)
     * [Board Member Code of Conduct](/board-structure-and-roles/code-of-conduct.md)
-    * Accountability
-    * Responsibilities
+    * [Accountability](board-structure-and-roles/accountability.md)
+    * [Responsibilities](board-structure-and-roles/responsibilities.md)
   * [Officers of the Corporation](board-structure-and-roles/officers-of-the-corporation.md)
+    * Role of the President
+    * Role of the Vice President
+    * Role of the Secretary
+    * Role of the Treasurer
 * [Board Procedures](board-procedures/README.md)
   * [Board Meetings](board-procedures/board-meetings.md)
   * [Board Self-Assessment](board-procedures/board-self-assessment.md)
