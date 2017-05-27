@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [About TMAC](about-dmg.md)
+* [About TMAC](about-tmac.md)
 * [Director Register](director-register.md)
 * [Board Structure and Roles](board-structure-and-roles/README.md)
   * [Directors of the Board](board-structure-and-roles/directors-of-the-board.md)
@@ -9,7 +9,6 @@
 * [Board Procedures](board-procedures/README.md)
   * [Board Meetings](board-procedures/board-meetings.md)
   * [Board Self-Assessment](board-procedures/board-self-assessment.md)
-* [Committees](committees/README.md)
 * [Policies](policies/README.md)
   * [Communication Policy](policies/communication-policy.md)
   * [Finance Policy](policies/finance-policy.md)
@@ -18,4 +17,5 @@
   * [Sponsorship and Fundraising Policy](policies/sponsorship-and-fundraising-policy.md)
   * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
-* [By-Laws](by-laws/README.md)
+* [Committees](committees/README.md)
+

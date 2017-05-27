@@ -1,4 +1,4 @@
-## Current Director Register
+# Current Director Register
 
 | Name                  | Office         |
 |:----------------------|:---------------|
