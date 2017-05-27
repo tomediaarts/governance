@@ -18,13 +18,4 @@ Changes will be adopted through a majority vote of the Board at Board meetings. 
 
 ## Addenda
 
-Letters patent, objects of the corporation, bylaws, and our charitable mandate can be found in the Addenda section.
-
-## Bylaws
-
-See Addenda
-
-## Mission
-
-
-
+Letters patent, objects of the corporation, bylaws, and our charitable mandate can be found in the [Addenda](//addenda.md) section.
