@@ -1,4 +1,4 @@
-## Ideal Board Size
+# Ideal Board Size
 
 The Board will take reasonable steps to maintain a board with sufficient numbers to reflect the volume of work and the diversity of the membership.
 

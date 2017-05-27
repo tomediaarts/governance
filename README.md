@@ -1,6 +1,4 @@
-# About TMAC
-
-## Introduction
+# Introduction
 
 The Toronto Media Arts Centre ("TMAC") Board Governance Manual defines the role of the Board and how it will carry out its responsibilities. This and the Bylaws are TMAC’s primary governing documents.
 

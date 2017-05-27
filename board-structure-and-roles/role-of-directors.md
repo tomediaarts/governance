@@ -1,4 +1,4 @@
-## Role of Directors
+# Role of Directors
 
 The Directors of the board have a duty to:
 
