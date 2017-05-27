@@ -21,16 +21,21 @@
     * [Membership and Appointment](board-structure-and-roles/board-committees-and-mandates/membership-and-appointment.md)
     * [Committee Chair](board-structure-and-roles/board-committees-and-mandates/committee-chair.md)
     * [Committee Procedures](board-structure-and-roles/board-committees-and-mandates/committee-procedures.md)
-  * [Board Procedures](board-procedures/README.md)
+  * [Board Procedures and Policies](board-procedures/README.md)
     * [Board Meetings](board-procedures/board-meetings.md)
+    * [Policies](policies/README.md)
+      * [Communication Policy](policies/communication-policy.md)
+      * [Finance Policy](policies/finance-policy.md)
+      * [Governance Policy](policies/governance-policy.md)
+      * [Conflict of Interest Policy](policies/conflict-of-interest-policy.md)
+      * [Sponsorship and Fundraising Policy](policies/sponsorship-and-fundraising-policy.md)
+      * [HR Policy](policies/hr-policy.md)
     * [Board Self-Assessment](board-procedures/board-self-assessment.md)
-* [Policies](policies/README.md)
-  * [Communication Policy](policies/communication-policy.md)
-  * [Finance Policy](policies/finance-policy.md)
-  * [Governance Policy](policies/governance-policy.md)
-  * [Conflict of Interest Policy](policies/conflict-of-interest-policy.md)
-  * [Sponsorship and Fundraising Policy](policies/sponsorship-and-fundraising-policy.md)
-  * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
-* Ideal Board Size
+  * Members of the Corporation
+  * Admission
+  * Security of Membership
+  * Termination
+  * Responsibilities of Members
+  * Rights of Members
 
