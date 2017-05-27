@@ -31,10 +31,10 @@
     * [HR Policy](policies/hr-policy.md)
     * [Board Self-Assessment](board-procedures/board-self-assessment.md)
 * [Membership](membership/README.md)
-  * Members of the Corporation
-  * Admission
-  * Security of Membership
-  * Termination
-  * Responsibilities of Members
-  * Rights of Members
+  * [Members of the Corporation](membership/members-of-the-corporation.md)
+  * [Admission](membership/admission.md)
+  * [Security of Membership](membership/security-of-membership.md)
+  * [Termination](membership/termination.md)
+  * [Responsibilities of Members](membership/responsibilities-of-members.md)
+  * [Rights of Members](membership/rights-of-members.md)
 
