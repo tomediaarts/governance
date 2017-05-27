@@ -37,4 +37,4 @@
   * [Termination](membership/termination.md)
   * [Responsibilities of Members](membership/responsibilities-of-members.md)
   * [Rights of Members](membership/rights-of-members.md)
-
+* [Addenda](/addenda.md)

@@ -16,9 +16,9 @@ An up-to-date list of Board members can be found [here](/director-register.md).
 
 Changes will be adopted through a majority vote of the Board at Board meetings. Proposed policy changes will be provided to Board members in advance of the meeting at which the vote is to be taken. Board-approved revisions will be tracked through a digital version control system.
 
-## Letters Patent
+## Addenda
 
-See Addenda
+Letters patent, objects of the corporation, bylaws, and our charitable mandate can be found in the Addenda section.
 
 ## Bylaws
 
