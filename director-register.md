@@ -2,7 +2,7 @@
 
 | Name                  | Office         |
 |:----------------------|:---------------|
-| Henry Faber           | President      |
-| Alex Williams         | Secretary      |
-| Frank Manzo           | Treasurer      |
-| Jennie Robinson Faber | Vice president |
+| [Henry Faber](mailto:henry@tomediaarts.org)           | President      |
+| [Alex Williams](mailto:secretary@tomediaarts.org)         | Secretary      |
+| [Frank Manzo](mailto:treasurer@tomediaarts.org)           | Treasurer      |
+| [Jennie Robinson Faber](mailto:jennie@tomediaarts.org) | Vice president |

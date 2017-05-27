@@ -1,11 +1,16 @@
 # Summary
 
 * [Introduction](README.md)
-* [About TMAC](about-tmac.md)
-* [Director Register](director-register.md)
+  * [About TMAC](about-tmac.md)
+  * [Director Register](director-register.md)
 * [Board Structure and Roles](board-structure-and-roles/README.md)
-  * [Directors of the Board](board-structure-and-roles/directors-of-the-board.md)
-  * [Officers of the Corporation](board-structure-and-roles/officers-of-the-corporation.md)
+  * [Composition](board-structure-and-roles/composition.md)
+  * [Ideal Board Size](board-structure-and-roles/ideal-board-size.md)
+  * [The Board's Role](board-structure-and-roles/the-boards-role.md)
+* Ideal Board Size
+* [Directors of the Board](board-structure-and-roles/directors-of-the-board.md)
+  * [Board Member Code of Conduct](/board-structure-and-roles/code-of-conduct.md)
+* [Officers of the Corporation](board-structure-and-roles/officers-of-the-corporation.md)
 * [Board Procedures](board-procedures/README.md)
   * [Board Meetings](board-procedures/board-meetings.md)
   * [Board Self-Assessment](board-procedures/board-self-assessment.md)
@@ -18,5 +23,5 @@
   * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
 * [Committees](committees/README.md)
-* [Addenda](addenda.md)
+* Ideal Board Size
 
