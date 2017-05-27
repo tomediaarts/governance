@@ -18,4 +18,5 @@
   * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
 * [Committees](committees/README.md)
+* [Addenda](addenda.md)
 
