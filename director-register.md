@@ -22,3 +22,11 @@
 | Ross Turnbull          | Board member                 | Charles Street Video  | Aug 1, 2013  | Apr 10, 2014 |
 | Gary Hall              | First director; board member | TPW                   | Jan 25, 2013 | Nov 26, 2013 |
 | Deirdre Margaret Logue | First director; board member | VTape                 | Jan 25, 2013 | Nov 26, 2013 |
+
+# Advisory Committee
+
+| Name          | Organization         | Start        | End     |
+|---------------|----------------------|--------------|---------|
+| Greg Woodbury | Charles Street Video | Oct 30, 2014 | Current |
+| Lauren Howes  | CFMDC                | Aug 21, 2014 | Current |
+| Ross Turnbull | Charles Street Video | Apr 10, 2014 | Current |
