@@ -25,8 +25,10 @@
 
 # Advisory Committee
 
-| Name          | Organization         | Start        | End     |
-|---------------|----------------------|--------------|---------|
-| Greg Woodbury | Charles Street Video | Oct 30, 2014 | Current |
-| Lauren Howes  | CFMDC                | Aug 21, 2014 | Current |
-| Ross Turnbull | Charles Street Video | Apr 10, 2014 | Current |
+| Name                     | Organization         | Start            | End     |
+|--------------------------|----------------------|------------------|---------|
+| Ross Turnbull            | Charles Street Video | Apr 10, 2014     | Current |
+| Lauren Howes             | CFMDC                | Aug 21, 2014     | Current |
+| Greg Woodbury            | Charles Street Video | Oct 30, 2014     | Current |
+| Genne Speers             | CFMDC                | October 31, 2017 | Current |
+| Izzie Colpitts-Campbell  | DMG                  | October 31, 2017 | Current |
