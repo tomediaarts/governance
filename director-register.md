@@ -18,7 +18,7 @@
 | Salome Viguier         | Board member                 | Le Labo               | Aug 1, 2013  | Oct 30, 2014 |
 | Lauren Howes           | Treasurer                    | CFMDC                 | Aug 1, 2013  | Aug 21, 2014 |
 | Chris Goddard          | Proxy                        | Images Festival       | Jun 3, 2014  | Aug 21, 2014 |
-| Laura Berazadi         | Board member                 | Interaccess           | Aug 1, 2013  | Jul 15, 2014 |
+| Laura Berazadi         | Board member                 | Interaccess           | Aug 1, 2013  | June 3, 2014 |
 | Ross Turnbull          | Board member                 | Charles Street Video  | Aug 1, 2013  | Apr 10, 2014 |
 | Gary Hall              | First director; board member | TPW                   | Jan 25, 2013 | Nov 26, 2013 |
 | Deirdre Margaret Logue | First director; board member | VTape                 | Jan 25, 2013 | Nov 26, 2013 |
