@@ -7,7 +7,7 @@
 | [Jennie Robinson Faber](mailto:jennie@tomediaarts.org)        | Vice president               | Dames Making Games    | Mar 26, 2015 | Current      |
 | [Henry Faber](mailto:henry@tomediaarts.org)            | President                    | Gamma Space           | Mar 26, 2015 | Current      |
 | Nichole Anderson       | Non-voting board member      | Business for the Arts | Oct 30, 2014 | Oct 30, 2015 |
-| Michael Awad           | First director; board member | Interaccess           | Oct 30, 2014 | Mar 25, 2015 |
+| Michael Awad           | First director; board member | Interaccess           | Oct 30, 2014 | Mar 23, 2015 |
 | Anthea Foyer           | Proxy                        | Interaccess           | Oct 30, 2014 | Mar 25, 2015 |
 | Robyn Mccallum         | Board member                 | Images Festival       | Nov 7, 2014  | Mar 24, 2015 |
 | Barbara Gilbert        | Board member                 | Le Labo               | Oct 30, 2014 | Jan 22, 2015 |
