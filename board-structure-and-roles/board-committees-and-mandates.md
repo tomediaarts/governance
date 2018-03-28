@@ -10,11 +10,10 @@ In the inaugural year of occupancy, the following operational committees will be
 
 * Facilities
 * Finance
-* Programming & Education
+* Joint Programming
 * Advancement & Partnerships
 * Fundraising
-* Governance
-* HR
+* Governance & HR
 * Outreach & Advocacy
 
 Individual committee mandates and additional terms of reference will be drafted by each committee, approved by the Board, and may be amended from time to time with approval of the Board.
