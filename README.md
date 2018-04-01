@@ -1,10 +1,10 @@
 # Introduction
 
-The Toronto Media Arts Centre ("TMAC") Board Governance Manual defines the role of the Board and how it will carry out its responsibilities. This and the Bylaws are TMAC’s primary governing documents.
+The Toronto Media Arts Centre \("TMAC"\) Board Governance Manual defines the role of the Board and how it will carry out its responsibilities. This and the Bylaws are TMAC’s primary governing documents.
 
 First drafted in 2011, the purpose of this document is to clarify the organization’s principles and goals, and define the roles and responsibilities of Board members as we aspire to a collaborative model of governance and to fulfill our mission and vision.
 
-Toronto Media Arts Cluster is creating the first ever collectively owned and managed non-profit arts facility in Toronto. A 38,000-square-foot centre for contemporary art located in the heart of Toronto’s Art + Design District, TMAC will provide state-of-the-art production studios, galleries, a cinema, opportunities for hands-on learning, artist apartment for residencies and flexible workspace.
+Toronto Media Arts Cluster is creating the first ever collectively owned and managed non-profit arts facility in Toronto. A 30,000-square-foot centre for contemporary art located in the heart of Toronto’s Art + Design District, TMAC will provide state-of-the-art production studios, galleries, a cinema, opportunities for hands-on learning, artist apartment for residencies and flexible workspace.
 
 ## Board Contact List
 
@@ -17,3 +17,4 @@ Changes will be adopted through a majority vote of the Board at Board meetings. 
 ## Addenda
 
 Letters patent, objects of the corporation, bylaws, and our charitable mandate can be found in the [Addenda](/addenda.md) section.
+
