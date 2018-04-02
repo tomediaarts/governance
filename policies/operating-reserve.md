@@ -1,0 +1,5 @@
+# Operating Reserve
+
+In the event there exists a deficit between the operating reserve account balance as required under the TMAC operating reserve Policy (20% of budgeted annual operating expenses), and the amount actually in the operating reserve (based on audited financial results), every effort should be made to eliminate the deficit in a minimum of three years, with one third of the deficit balance being funded in the current operating budget, until the operating reserve is restored to the minimum required balance.
+
+In the event the annual operating budgeted expenses result in a reduction in the required balance, no additional funding may be required. The objective of ensuring that the operating reserve balance meets or exceeds the required amount can be achieved through a combination of lowering budgeted expenses or increasing the amount invested in the operating reserve account. In the event operating expenses are budgeted to increase resulting in an operating reserve deficiency, the Board will budget to fund the required operating reserve balance.

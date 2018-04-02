@@ -29,6 +29,8 @@
     * [Conflict of Interest Policy](policies/conflict-of-interest-policy.md)
     * [Sponsorship and Fundraising Policy](policies/sponsorship-and-fundraising-policy.md)
     * [HR Policy](policies/hr-policy.md)
+    * [Naming Rights](policies/naming-rights.md)
+    * [Operating Reserve](policies/operating-reserve.md)
     * [Board Self-Assessment](board-procedures/board-self-assessment.md)
 * [Membership](membership/README.md)
   * [Members of the Corporation](membership/members-of-the-corporation.md)
