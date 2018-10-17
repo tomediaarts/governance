@@ -3,9 +3,9 @@
 | Name | Office | Organization | Start | End |
 | --- | --- | --- | --- | --- |
 | [Frank Manzo](mailto:treasurer@tomediaarts.org) | Treasurer | CFMDC | Oct 30, 2014 | Current |
-| [Alex Williams](mailto:secretary@tomediaarts.org) | Secretary | Charles Street Video | Oct 30, 2014 | Current |
-| Izzie Colpitts-Campbell |  | Dames Making Games | March 5, 2018 | Current |
 | [Henry Faber](mailto:henry@tomediaarts.org) | President | Gamma Space | Mar 26, 2015 | Current |
+| Izzie Colpitts-Campbell |  | Dames Making Games | March 5, 2018 | Current |
+| Alex Williams | Secretary | Charles Street Video | Oct 30, 2014 | Oct 11, 2018 |
 | Jennie Robinson Faber | Vice President | DMG | Mar 26, 2015 | March 5, 2018 |
 | Nichole Anderson | Non-voting board member | Business for the Arts | Oct 30, 2014 | Oct 30, 2015 |
 | Michael Awad | First director; board member | Interaccess | Oct 30, 2014 | Mar 23, 2015 |
