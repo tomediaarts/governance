@@ -2,10 +2,12 @@
 
 | Name | Office | Organization | Start | End |
 | --- | --- | --- | --- | --- |
-| [Frank Manzo](mailto:treasurer@tomediaarts.org) | Treasurer | CFMDC | Oct 30, 2014 | Current (term renewed October 30, 2018) |
+| [Frank Manzo](mailto:treasurer@tomediaarts.org) | Treasurer | Community | Oct 30, 2014 | Current (term renewed October 30, 2018) |
 | [Henry Faber](mailto:henry@tomediaarts.org) | President | Gamma Space | Mar 26, 2015 | Current |
 | Izzie Colpitts-Campbell | Secretary | Dames Making Games | March 5, 2018 | Current |
-| Ross Turnbull | Vice president | Charles Street Video | Nov 1, 2018 | Current |
+| Gina Vanni |  | CFMDC | Nov 1, 2018 | Current |
+| Simone Jones |  | Charles Street Video | Nov 1, 2018 | Current |
+| Scott Miller Berry |  | Community | Nov 1, 2018 | Current |
 | Alex Williams | Secretary | Charles Street Video | Oct 30, 2014 | Oct 11, 2018 |
 | Jennie Robinson Faber | Vice President | DMG | Mar 26, 2015 | March 5, 2018 |
 | Nichole Anderson | Non-voting board member | Business for the Arts | Oct 30, 2014 | Oct 30, 2015 |
