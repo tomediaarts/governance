@@ -6,8 +6,9 @@
 | [Henry Faber](mailto:henry@tomediaarts.org) | President | Gamma Space | Mar 26, 2015 | Current |
 | Izzie Colpitts-Campbell | Secretary | Dames Making Games | March 5, 2018 | Current |
 | Gina Vanni |  | CFMDC | Nov 1, 2018 | Current |
-| Simone Jones |  | Charles Street Video | Nov 1, 2018 | Current |
 | Scott Miller Berry |  | Community | Nov 1, 2018 | Current |
+| Greg Breen |  | Charles Street Video | April 15, 2019 | Current |
+| Simone Jones |  | Charles Street Video | Nov 1, 2018 | March 25, 2019 |
 | Alex Williams | Secretary | Charles Street Video | Oct 30, 2014 | Oct 11, 2018 |
 | Jennie Robinson Faber | Vice President | DMG | Mar 26, 2015 | March 5, 2018 |
 | Nichole Anderson | Non-voting board member | Business for the Arts | Oct 30, 2014 | Oct 30, 2015 |
