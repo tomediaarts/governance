@@ -32,7 +32,7 @@
 
 | Name | Organization | Start | End |
 | --- | --- | --- | --- |
-| Ross Turnbull | Charles Street Video | Apr 10, 2014 | October 30, 2018 |
+| Ross Turnbull | Charles Street Video | Apr 10, 2014 | Current |
 | Lauren Howes | CFMDC | Aug 21, 2014 | Current |
 | Greg Woodbury | Charles Street Video | Oct 30, 2014 | Current |
 | Genne Speers | CFMDC | October 31, 2017 | Current |
