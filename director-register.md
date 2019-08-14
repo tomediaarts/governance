@@ -4,9 +4,9 @@
 | --- | --- | --- | --- | --- |
 | [Frank Manzo](mailto:treasurer@tomediaarts.org) | Treasurer | Community | Oct 30, 2014 | Current (term renewed October 30, 2018) |
 | [Henry Faber](mailto:henry@tomediaarts.org) | President | Gamma Space | Mar 26, 2015 | Current |
-| Izzie Colpitts-Campbell | Secretary | Dames Making Games | March 5, 2018 | Current |
+| Izzie Colpitts-Campbell | Vice President | Dames Making Games | March 5, 2018 | Current |
 | Gina Vanni |  | CFMDC | Nov 1, 2018 | Current |
-| Scott Miller Berry |  | Community | Nov 1, 2018 | Current |
+| Scott Miller Berry | Secretary | Community | Nov 1, 2018 | Current |
 | Greg Breen |  | Charles Street Video | April 15, 2019 | Current |
 | Simone Jones |  | Charles Street Video | Nov 1, 2018 | March 25, 2019 |
 | Alex Williams | Secretary | Charles Street Video | Oct 30, 2014 | Oct 11, 2018 |
