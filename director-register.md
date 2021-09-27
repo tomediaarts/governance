@@ -2,12 +2,12 @@
 
 | Name | Office | Organization | Start | End |
 | --- | --- | --- | --- | --- |
-| [Frank Manzo](mailto:treasurer@tomediaarts.org) | Treasurer | Community | Oct 30, 2014 | Current (term renewed October 30, 2018) |
+| [Frank Manzo](mailto:treasurer@tomediaarts.org) | Treasurer | Community | Oct 30, 2014 | Current |
 | [Henry Faber](mailto:henry@tomediaarts.org) | President | Gamma Space | Mar 26, 2015 | Current |
-| Izzie Colpitts-Campbell | Vice President | Dames Making Games | March 5, 2018 | Current |
-| Gina Vanni |  | CFMDC | Nov 1, 2018 | Current |
+| Izzie Colpitts-Campbell | Vice President | Dames Making Games | March 5, 2018 | August 24, 2021 |
+| Gina Vanni |  | CFMDC | Nov 1, 2018 | September 14, 2021 |
 | Scott Miller Berry | Secretary | Community | Nov 1, 2018 | Current |
-| Greg Breen |  | Charles Street Video | April 15, 2019 | Current |
+| Greg Breen |  | Charles Street Video | April 15, 2019 | August 23, 2021 |
 | Simone Jones |  | Charles Street Video | Nov 1, 2018 | March 25, 2019 |
 | Alex Williams | Secretary | Charles Street Video | Oct 30, 2014 | Oct 11, 2018 |
 | Jennie Robinson Faber | Vice President | DMG | Mar 26, 2015 | March 5, 2018 |
@@ -32,10 +32,10 @@
 
 | Name | Organization | Start | End |
 | --- | --- | --- | --- |
-| Ross Turnbull | Charles Street Video | Apr 10, 2014 | Current |
-| Lauren Howes | CFMDC | Aug 21, 2014 | Current |
-| Greg Woodbury | Charles Street Video | Oct 30, 2014 | Current |
-| Genne Speers | CFMDC | October 31, 2017 | Current |
+| Ross Turnbull | Charles Street Video | Apr 10, 2014 | August 23, 2021 |
+| Lauren Howes | CFMDC | Aug 21, 2014 | – |
+| Greg Woodbury | Charles Street Video | Oct 30, 2014 | August 23, 2021 |
+| Genne Speers | CFMDC | October 31, 2017 | September 14, 2021 |
 | Jennie Robinson Faber | DMG | March 5, 2018 | Current |
 | Robby Duguay | Gamma Space | December 15, 2017 | Current |
 | Izzie Colpitts-Campbell | DMG | October 31, 2017 | March 5, 2018 |
