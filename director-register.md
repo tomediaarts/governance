@@ -36,7 +36,7 @@
 | Lauren Howes | CFMDC | Aug 21, 2014 | – |
 | Greg Woodbury | Charles Street Video | Oct 30, 2014 | August 23, 2021 |
 | Genne Speers | CFMDC | October 31, 2017 | September 14, 2021 |
-| Jennie Robinson Faber | DMG | March 5, 2018 | Current |
+| Jennie Robinson Faber | Community | March 5, 2018 | Current |
 | Robby Duguay | Gamma Space | December 15, 2017 | Current |
 | Izzie Colpitts-Campbell | DMG | October 31, 2017 | March 5, 2018 |
 
